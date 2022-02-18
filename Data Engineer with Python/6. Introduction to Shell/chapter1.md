@@ -5,7 +5,6 @@ description: >-
   still in use after almost 50 years, how it compares to the graphical tools you
   may be more familiar with, how to move around in the shell, and how to create,
   modify, and delete files and folders.
-free_preview: true
 ---
 
 ## How does the shell compare to a desktop interface?
